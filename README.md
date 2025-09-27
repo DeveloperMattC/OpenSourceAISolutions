@@ -1,4 +1,4 @@
-# AI Solution Forum
+# Open Access AI Solution Playground
 
 > Solving World Problems Together With AI
 
